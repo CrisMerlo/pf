@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner {
+    background-color: white;
+
+    padding: 0.3rem;
+    margin: 1.5rem;
+    border-radius: 0.7rem;
+    
+}
+
+body{
+    background-color: black;
+}
+
+.box{
+    width: 6rem ;
+    height: 6rem ;
+    
+}
+
+.logo-editar{
+    background-image: url("/web/portafolio/img/211298f85e3f1d6d9b8453207f2ba0cd.gif") ;
+    background-position: center;
+    background-size: cover;
+    margin-left: 10px;
+    margin-top: 10px;
+
+    
+}
+
+.relative{
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+
+.inline{
+    border: 1px;
+}
+
+.mb{
+    margin-bottom: 2rem;
+}
+
+.mt{
+    margin-top: 2rem;
+}
