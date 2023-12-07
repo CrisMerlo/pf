@@ -8,7 +8,7 @@
     background-color: white;
 
     padding: 0.3rem;
-    margin: 1.5rem;
+    margin: 1.3rem;
     border-radius: 0.7rem;
     
 }
@@ -27,16 +27,23 @@ body{
     background-image: url("/web/portafolio/img/211298f85e3f1d6d9b8453207f2ba0cd.gif") ;
     background-position: center;
     background-size: cover;
-    margin-left: 10px;
+    border-radius: 0.7rem;
+    margin-left: 50px;
     margin-top: 10px;
 
     
 }
 
-.relative{
+.caja-texto{
+    width:  500px;
+    height: 500px;
+    border-radius: 0.7;
+    background-position: center;
     position: relative;
-    bottom: 10px;
-    left: 10px;
+    left: 80%;
+    bottom: 3rem;
+    background-color: white;
+
 }
 
 .inline{
