@@ -75,9 +75,8 @@ body{
     align-items: center;
     display: flex;
 }
-
 .hero-info img{
-    margin-right: 0;
+    background-size: cover;
     max-width: 40%;
     max-height: 90%;
 }
