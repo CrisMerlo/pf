@@ -68,14 +68,32 @@ body{
     height: 600px;
     border-radius: 30px;
     display: flex;
-    align-items: center;
+
+}
+
+.hero-info h1{
+    display: flex;
 }
 
 .hero-info a{
+    margin-top: 300px;
+    margin-right: 7rem;
+    background-color: #000000;
+    border-radius: 20px;
+    width: 8rem;
+    height: 50px;
+    text-decoration: none;
+    color: white;
+    background-position: center;
     align-items: center;
     display: flex;
 }
+
+
 .hero-info img{
+    border-radius: 20px;
+    margin-top: 20px;
+    align-items: center;
     background-size: cover;
     max-width: 40%;
     max-height: 90%;
